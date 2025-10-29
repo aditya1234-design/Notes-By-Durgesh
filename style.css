@@ -31,7 +31,7 @@ h2 {
 }
 
 .subject button {
-    background: #4CAF50;
+    background: #4FFD700;
     color: white;
     border: none;
     padding: 10px 15px;
@@ -41,5 +41,5 @@ h2 {
 }
 
 .subject button:hover {
-    background: #45a049;
+    background: #FFD700;
 }
