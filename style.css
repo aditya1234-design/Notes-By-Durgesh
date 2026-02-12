@@ -31,7 +31,7 @@ h2 {
 }
 
 .subject button {
-    background: #FF0000;
+    background: red;
     color: white;
     border: none;
     padding: 10px 15px;
