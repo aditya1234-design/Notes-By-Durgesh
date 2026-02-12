@@ -31,8 +31,8 @@ h2 {
 }
 
 .subject button {
-    background: red;
-    color: white;
+    background: red !important ;
+    color: white !important;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
